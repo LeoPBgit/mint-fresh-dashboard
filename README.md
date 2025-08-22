@@ -9,7 +9,11 @@ A modern, responsive business dashboard application built with vanilla HTML, CSS
 
 ## 🚀 Live Demo
 
-Open `mint-fresh-app.html` in your browser to see the application in action.
+**🌐 [View Live Demo](https://leopbgit.github.io/mint-fresh-dashboard/)**
+
+*Note: GitHub Pages may take a few minutes to deploy. If the link doesn't work immediately, please wait 5-10 minutes and try again.*
+
+Alternatively, you can download and open `mint-fresh-app.html` in your browser locally.
 
 ## 🔐 Login Credentials
 
