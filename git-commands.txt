@@ -1,0 +1,31 @@
+# Git Commands to Upload Mint Fresh Dashboard to GitHub
+
+# Step 1: Initialize Git repository (if not already done)
+git init
+
+# Step 2: Add all files to staging
+git add .
+
+# Step 3: Commit all files
+git commit -m "Initial commit: Mint Fresh Dashboard with authentication system
+
+- Complete unified HTML application with login/dashboard
+- Working authentication system with 4 demo accounts
+- Interactive charts and responsive design
+- Comprehensive documentation and memory bank
+- Original design files preserved
+- MIT License and proper .gitignore"
+
+# Step 4: Add remote repository
+git remote add origin https://github.com/LeoPBgit/mint-fresh-dashboard.git
+
+# Step 5: Set main branch and push
+git branch -M main
+git push -u origin main
+
+# Alternative: If repository already exists and you need to force push
+# git push -f origin main
+
+# To verify the upload worked:
+git status
+git log --oneline
